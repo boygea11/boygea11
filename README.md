@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on "No Eny Where"
+- 🔭 I’m currently working on "No Anywhere"
 - 📚 I'm currently studing at Gunadarma University
 - 🌱 I’m currently learning "How to Build Website Theme"
 - 💬 Ask me about "?"
